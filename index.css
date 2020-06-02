@@ -1,0 +1,31 @@
+body{
+  background-color: rgba(242,242,239,1);
+}
+#hd{
+  text-align: center;
+}
+#img-div{
+  background-color: white;
+  text-align: center;
+}
+#image-caption{
+  padding:20px;
+}
+#tribute-info{
+  text-align: center;
+}
+#main-content{
+  text-align: justify;
+  padding: 30px;
+  width: 50%;
+  margin: auto;
+}
+li{
+  padding: 10px;
+}
+img{
+  padding: 30px;
+}
+footer{
+  text-align: center;
+}
